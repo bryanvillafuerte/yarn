@@ -1,0 +1,11 @@
+{
+  "name": "ma2q9",
+  "version": "1.0.0",
+  "description": "Workflow Module Assignment 2 Question 9",
+  "main": "index.js",
+  "author": "Bryan Villafuerte <bryjho.villafuerte@yahoo.com.ph>",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
